@@ -1,7 +1,7 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Sagar Institute of Technology and Management, Barabanki, Uttar Pradesh',
+        institution: 'S.I.T.M, Barabanki, Uttar Pradesh',
         course: 'Bachelor of Technology (B.Tech) (AKTU)',
         startYear: '2024',
         endYear: '2027'
