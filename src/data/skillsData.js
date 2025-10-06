@@ -5,7 +5,6 @@
     'Typescript',
     'CSS',
     'React',
-    'React Native',
     'Django',
     'Tensorflow',
     'Next JS',
@@ -18,6 +17,7 @@
     'ViteJS',
     'MySQL',
     'PostgreSQL',
+    'React Native',
     'AWS',
     'OpenCV',
 ]
