@@ -1,9 +1,9 @@
-import resume from '../assets/pdf/resume.pdf'
+// import resume from '../assets/pdf/Arpit Gupta CV.pdf'
 
 export const headerData = {
-    name: 'Jane Doe',
+    name: 'Arpit Gupta',
     title: "Web Developer",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
-    image: 'https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/landingImg.png',
-    resumePdf: resume
+    desciption: "The sky was empty; no bird was in sight. Yet her gaze remained fixed on the clouds—their deep green hue signaling a major change or an impending event. She sensed the situation and hoped she was fully prepared.",
+    image: 'ArpitGupta.jpg',
+    resumePdf: '/pdf/resume.pdf'
 }

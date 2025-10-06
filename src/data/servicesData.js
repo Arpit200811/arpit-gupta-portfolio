@@ -1,81 +1,20 @@
-/* eslint-disable */
-import { BiShoppingBag, BiPencil } from "react-icons/bi";
 import { BsCodeSlash, BsClipboardData } from "react-icons/bs";
-import { AiOutlineMail, AiFillAudio } from "react-icons/ai";
-import { FaInternetExplorer,  FaChalkboardTeacher, FaCameraRetro, FaPinterest, FaVideo, FaTabletAlt, FaRegNewspaper } from "react-icons/fa";
-
- 
+import { SiAndroid, SiReact, SiFirebase, SiNodeDotJs, SiMongodb, SiTensorflow, SiIos, SiTypescript, SiNextDotJs } from "react-icons/si";
+import { FaServer, FaRobot, FaCodeBranch } from "react-icons/fa";
 
 export const servicesData = [
-    // {
-    //     id: 1,
-    //     title: 'Marketing',
-    //     icon: <BiShoppingBag/>
-    // },
-    {
-        id: 2,
-        title: 'Content Writing',
-        icon: <BiPencil /> 
-    },
-    {
-        id: 3,
-        title: 'Email Marketing',
-        icon: <AiOutlineMail />
-    },
-    // {
-    //     id: 4,
-    //     title: 'Internet Research',
-    //     icon: <FaInternetExplorer />
-    // },
-    // {
-    //     id: 5,
-    //     title: 'Tutoring',
-    //     icon: <FaChalkboardTeacher />
-    // },
-
-    {
-        id: 6,
-        title: 'Web Design',
-        icon: <BsCodeSlash />
-    },
-    {
-        id: 7,
-        title: 'Photography',
-        icon: <FaCameraRetro />
-    },
-    // {
-    //     id: 8,
-    //     title: 'Pinterest Virtual Assistant',
-    //     icon: <FaPinterest />
-    // }, 
-    {
-        id: 9,
-        title: 'Video Editing',
-        icon: <FaVideo />
-    },
-    // {
-    //     id: 10,
-    //     title: 'Data Entry', 
-    //     icon: <BsClipboardData />
-    // },
-    {
-        id: 11,
-        title: 'Ebook Writing',
-        icon: <FaTabletAlt />
-    },
-    // {
-    //     id: 12,
-    //     title: 'Audio Transcription',
-    //     icon: <AiFillAudio />
-    // },
-    {
-        id: 13,
-        title: 'Blog Posting',
-        icon: <FaRegNewspaper />
-    },
-
-]
-
-// Uncomment your required service.
-// Couldn't find the required services? Raise an issue on github at https://github.com/hhhrrrttt222111/developer-portfolio/issues/new
-// You can also add on your own 😉.
+  { id: 1, title: "Full Stack Web Development", icon: <BsCodeSlash /> },
+  { id: 2, title: "Android App Development", icon: <SiAndroid /> },
+  { id: 3, title: "Frontend Development (React / React Native)", icon: <SiReact /> },
+  { id: 4, title: "Backend Development (Node.js / Express)", icon: <SiNodeDotJs /> },
+  { id: 5, title: "Database Integration (MongoDB / Firebase / PostgreSQL)", icon: <SiMongodb /> },
+  { id: 6, title: "API Development & Integration (REST / GraphQL)", icon: <FaCodeBranch /> },
+  { id: 7, title: "Real-Time Features (Socket.IO)", icon: <BsClipboardData /> },
+  { id: 8, title: "Server & Cloud Management (AWS / Azure / GCP)", icon: <FaServer /> },
+  { id: 9, title: "AI & Machine Learning Integration", icon: <SiTensorflow /> },
+  { id: 10, title: "Computer Vision & OCR", icon: <FaRobot /> },
+  { id: 11, title: "Automation & Intelligent Systems", icon: <FaRobot /> },
+  { id: 12, title: "iOS App Development", icon: <SiIos /> },
+  { id: 13, title: "TypeORM & Database Management", icon: <SiTypescript /> },
+  { id: 14, title: "Next.js Development", icon: <SiNextDotJs /> }
+];

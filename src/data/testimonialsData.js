@@ -1,4 +1,3 @@
-/* eslint-disable */
 import girl1 from '../assets/svg/testimonials/girl1.svg'
 import girl2 from '../assets/svg/testimonials/girl2.svg'
 import girl3 from '../assets/svg/testimonials/girl3.svg'
@@ -10,46 +9,47 @@ import boy3 from '../assets/svg/testimonials/boy3.svg'
 
 export const testimonialsData = [
     {
-        id: 1,
-        name: 'Chandler Bing',
-        title: 'Transponster',
-        text: "Building my own portfolio could've never been easier than this. The only areas I'm good at are Math, Jokes and Dance.",
-        image: boy2
-    },
-    {
-        id: 2,
-        name: 'Monica Geller',
-        title: 'Head Chef',
-        text: "This is the only thing that I didn't have to spend time to sort out. It's tidy all by itself.",
-        image: girl2
-    },
-    {
-        id: 3,
-        name: 'Phoebe Buffay',
-        title: 'Massuese',
-        text: "Heard of the song 'Smelly Cat!!' ? This website made it viral. Plus portfolio is the only thing that Ursula doesn't have :)",
-        image: girl1
-    },
-    {
-        id: 4,
-        name: 'Joey Tribbiani',
-        title: 'Actor',
-        text: "Making my portfolio with this helped me get my role as 'Dr. Drake Ramoray' in 'Days Of Our Lives'. You guys are the best !",
-        image: boy1
-    },
-    {
-        id: 5,
-        name: 'Rachel Green',
-        title: 'Sales Executive',
-        text: 'Ralph Lauren was one of the best things that ever happened to me. My portfolio made that dream happen. I owe you guys.',
-        image: girl3
-    },
-    {
-        id: 6,
-        name: 'Ross Geller',
-        title: 'Paleontologist',
-        text: "Be it 'Rocks' or 'Bones', you need a website to display it. This is it. Great work guys !",
-        image: boy3
-    }
+    id: 1,
+    name: 'Arjun Mehta',
+    title: 'Software Engineer',
+    text: "Creating my portfolio was so easy with this platform. Besides coding, my only talents are cricket, memes, and cooking.",
+    image: boy2
+},
+{
+    id: 2,
+    name: 'Priya Sharma',
+    title: 'Chef',
+    text: "This platform made building my portfolio effortless. Everything looks organized and professional on its own.",
+    image: girl2
+},
+{
+    id: 3,
+    name: 'Sneha Kapoor',
+    title: 'Yoga Instructor',
+    text: "I wanted to share my wellness tips online. This website made it simple, and now my clients love it!",
+    image: girl1
+},
+{
+    id: 4,
+    name: 'Rahul Verma',
+    title: 'Actor',
+    text: "Making my portfolio here helped me land a role in a popular web series. Highly recommended!",
+    image: boy1
+},
+{
+    id: 5,
+    name: 'Ananya Iyer',
+    title: 'Marketing Executive',
+    text: "This portfolio helped me showcase my work to big clients and land my dream job. Truly grateful!",
+    image: girl3
+},
+{
+    id: 6,
+    name: 'Rohan Gupta',
+    title: 'Archaeologist',
+    text: "Whether it's ancient artifacts or fossils, you need a website to present your work. This is the perfect platform!",
+    image: boy3
+}
+
 ]
 

@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'janedoe.test@gmail.com',
-    phone: '+915588776600',
-    address: 'Menlo Park, California, United States - 673822 ',
+    email: 'arpitgupta9610@gmail.com',
+    phone: '+91 6386373577',
+    address: 'Vikas Nagar Lucknow Uttar Pradesh 226022',
 
-    sheetAPI: ''
+    sheetAPI: 'https://arpit-portfolio-server.onrender.com/api/contact'
 }
