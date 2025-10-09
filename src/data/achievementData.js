@@ -3,41 +3,27 @@ export const achievementData = {
     achievements : [
         {
             id : 1,
-            title : 'Google Cloud certification',
-            details : 'Google Cloud certifications validate your expertise and showcase your ability to transform businesses with Google Cloud technology.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80'
+            title : 'Star Performance Certification',
+            details : 'Awarded for outstanding performance during the summer internship, demonstrating exceptional skills, dedication, and initiative in cloud technology projects.',
+            date : 'Aug 20, 2023',
+            field : 'Summer Intern',
+            image : 'https://images.unsplash.com/photo-1590608897129-79bda5cda2c5?ixlib=rb-4.0.3&auto=format&fit=crop&w=687&q=80'
         },
         {
             id : 2,
-            title : 'AWS Certification',
-            details : 'Validate technical skills and cloud expertise to grow your career and business.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
+            title : 'Intern Certification',
+            details : 'Successfully completed hands-on web development projects, acquiring practical skills in frontend and backend technologies, and demonstrating readiness for professional roles.',
+            date : 'May 20, 2024',
+            field : 'Junior Web Developer',
+            image : 'https://images.unsplash.com/photo-1551836022-d5d88e9218df?ixlib=rb-4.0.3&auto=format&fit=crop&w=1074&q=80'
         },
         {
             id : 3,
-            title : 'Professional Data Engineer Certification',
-            details : 'Professional Data Engineers enable data-driven decision making by collecting, transforming, and publishing data.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
+            title : 'Best Employee of the session',
+            details : 'Recognized as the best employee for consistently delivering high-quality software solutions, optimizing workflows, and contributing significantly to team success.',
+            date : 'Aug 03, 2025',
+            field : 'Software Engineering',
+            image : 'https://images.unsplash.com/photo-1581091215367-5b6e6d7b1e69?ixlib=rb-4.0.3&auto=format&fit=crop&w=1050&q=80'
         }
-
     ]
 }
-
-
-// Do not remove any fields.
-// Leave it blank instead as shown below.
-
-/*
-
-export const achievementData = {
-    bio : "",
-    achievements : []
-}
-
-*/
